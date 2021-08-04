@@ -1,5 +1,5 @@
 ### gio-tools
-1. gio :growing at input or output 
+1. gio：growing in input or output 
 2. 对项目常用到的工具方法进行提炼
 3. 野生前端一枚，期待您的宝贵意见
 
@@ -151,8 +151,8 @@ function App() {
 }
 ```
 ### 规划
-##### 项目分两部份 hooks 和工具函数。目前先实现了部分通用hooks.工具函数/hooks 会在后期逐步完善
+##### 项目分两部份 hooks 和工具函数。目前先实现了部分通用hooks，工具函数/hooks 会在后期逐步完善
 * hooks (部分完成)
 * 工具函数(待完善)
 * 自动化测试(待完善)
-* 完整的模块化打包(待完善)
+* 完整的模块化打包/错误追踪(待完善)
