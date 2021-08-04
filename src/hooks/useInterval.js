@@ -3,7 +3,7 @@ import useWillUnMount from './useWillUnMount'
 /**
  * @param {Function} fn
  * @param {number} peried during time unite ms
- * tip: At component destory auto cancel this interval
+ * tip: At component destroy auto cancel this interval
  * 因大量的耗时任务会导致 setInterval 丢帧，因此采用 setTimeout 实现
  */
 export default function useInterval(fn, peried) {

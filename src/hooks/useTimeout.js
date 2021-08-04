@@ -3,7 +3,7 @@ import useWillUnMount from './useWillUnMount'
 /**
  * @param {Function} fn
  * @param {number} wait delay time unite ms
- * tip: At component destory auto this timer
+ * tip: At component destroy auto this timer
  */
 
 export default function useTimout(fn, wait) {

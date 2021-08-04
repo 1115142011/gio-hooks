@@ -38,7 +38,7 @@ function App() {
 ```
 ### <span id='useWillUnMount'>useWillUnMount</span>
 ##### 模拟组件销毁时的生命周期钩子
- * @param {fn } Function  callback runing on component Destory
+ * @param {fn } Function  callback runing on component Destroy
 
 ```js
 import {useWillUnMount}  from "gio-tools";

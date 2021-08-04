@@ -4,7 +4,7 @@ import useWillUnMount from './useWillUnMount'
 /**
  * @param {Function} fn
  * @param {number} wait delay time unite ms
- * tip: At component destory auto cancel timer
+ * tip: At component destroy auto cancel timer
  */
 
 function useDebounce(fn, wait = 100) {

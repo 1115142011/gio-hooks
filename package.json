@@ -8,6 +8,7 @@
     "dev": "webpack --watch"
   },
   "description": "custom-hooks reac-tools project-usually-tools",
+  "keywords": ["hooks","react-tools"],
   "devDependencies": {
     "@babel/preset-env": "^7.14.9",
     "@babel/preset-react": "^7.14.5",

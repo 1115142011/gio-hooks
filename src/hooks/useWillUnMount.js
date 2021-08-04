@@ -1,6 +1,6 @@
 import React, { useEffect,useRef } from 'react'
 /**
- * @param {Function} fn callback runing on component Destory
+ * @param {Function} fn callback runing on component destroy
  * tip:因函数传递-在组件更新是会变成新的引用，导致组件更新，因此使用两个 effect
 */
 export default function useWillUnMount(fn) {

@@ -3,7 +3,7 @@ import useWillUnMount from './useWillUnMount'
 /**
  * @param {Function} fn 
  * @param {number} during wait time unite ms
- * tip: At component destory auto cancel throttle timer
+ * tip: At component destroy auto cancel throttle timer
 */
 export default function useThrottle(fn, during) {
   if (typeof fn !== 'function') {
