@@ -78,7 +78,7 @@ function App() {
 
 ```
 ### <span id='useDidMount'>useDidMount</span>
-##### 模拟组件挂载时的生明周期钩子，只会执行一次
+##### 模拟组件挂载时的生命周期钩子，只会执行一次
  * @param {fn} Function
 ```js
 import {useDidMount}  from "gio-tools";
